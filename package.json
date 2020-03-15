@@ -1,5 +1,5 @@
 {
-  "name": "circleciexpress",
+  "name": "circleci",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johntango/circleciexpress.git"
+    "url": "git+https://github.com/bapivr/circleci.git"
   },
   "author": "john <jrw@mit.edu>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/johntango/circleciexpress/issues"
+    "url": "https://github.com/bapivr/circleci.git/issues"
   },
-  "homepage": "https://github.com/johntango/circleciexpress#readme",
+  "homepage": "https://github.com/bapivr/circleci.git#readme",
   "dependencies": {
     "assert": "^1.4.1",
     "chai": "^4.2.0",
