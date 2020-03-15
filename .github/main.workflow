@@ -27,6 +27,6 @@ jobs:
     - name: push to dockerhub  # mmm
       uses = "actions/docker/login@master"
       secrets = ["DOCKER_USERNAME", "DOCKER_PASSWORD"]
-      run: docker push jrwtango\expressimage
+      run: docker push bapivr\expressimage
       env:
         CI: true
